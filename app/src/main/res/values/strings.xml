@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bullet Journal</string>
+    <string name="task_add">Add a new Goal or Task</string>
+    <string name="task_notification">Send notification</string>
+    <string name="goal_name">Goal Name</string>
+    <string name="add_new_task">Add new Task</string>
+    <string name="desired_time">Desired time spent on this task</string>
+</resources>
